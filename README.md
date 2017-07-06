@@ -1,2 +1,0 @@
-# ocrPlugin
-ocr plugin
